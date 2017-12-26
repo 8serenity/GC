@@ -1,0 +1,6 @@
+c:\users\serenity\documents\visual studio 2015\Projects\GarbageCollector\GarbageCollector\bin\Debug\GarbageCollector.exe.config
+c:\users\serenity\documents\visual studio 2015\Projects\GarbageCollector\GarbageCollector\bin\Debug\GarbageCollector.exe
+c:\users\serenity\documents\visual studio 2015\Projects\GarbageCollector\GarbageCollector\bin\Debug\GarbageCollector.pdb
+c:\users\serenity\documents\visual studio 2015\Projects\GarbageCollector\GarbageCollector\obj\Debug\GarbageCollector.csprojResolveAssemblyReference.cache
+c:\users\serenity\documents\visual studio 2015\Projects\GarbageCollector\GarbageCollector\obj\Debug\GarbageCollector.exe
+c:\users\serenity\documents\visual studio 2015\Projects\GarbageCollector\GarbageCollector\obj\Debug\GarbageCollector.pdb
